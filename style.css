@@ -98,6 +98,9 @@ header{
 .hero-button:hover{
     background-color: orangered;
 }
+.set{
+    text-align:center;
+}
 .destinations{
     font-size: 2.4rem;
     font-family: "Dongle-bold";
