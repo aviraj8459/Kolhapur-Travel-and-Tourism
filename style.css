@@ -281,10 +281,10 @@ footer p{
 }
 @media (max-width:603px){
     .hero-content h1{
-        font-size: 1.5rem;
+        font-size: 2rem;
     }
     .hero-content p{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
 }
 @media (max-width:430px){
@@ -292,17 +292,17 @@ footer p{
         display: none;
     }
     .hero-content h1{
-        font-size: 1.5rem;
+        font-size: 1.3rem;
     }
     .hero-content p{
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
     .hero-button{
         padding: 6px 22px;
         font-size: 16px;
     }
     .destinations{
-        font-size: rem;
+        font-size: 1.5rem;
     }
     .destination-grid{
         display: grid;
@@ -317,6 +317,35 @@ footer p{
         height: 250px;
     }
 }
+@media (max-width: 425px) {
+    .hero-content {
+        margin: 10px;
+        padding: 15px;
+        max-width: 100%;
+    }
+    .hero-content h1 {
+        font-size: 2em;
+        margin-bottom: 10px;
+    }
+    .hero-content p.set {
+        font-size: 1.5em;
+        margin-bottom: 20px;
+    }
+    .hero-button {
+        padding: 10px 20px;
+        font-size: 0.9em;
+        width: auto;
+    }
+}
+@media(max-width:360px){
+    .hero-content h1 {
+        font-size: 1.6em;
+    }
+    .hero-content p.set {
+        font-size: 1em;
+    }
+}
+
 .Temple{
     display: inline-block;
     text-decoration: none;
