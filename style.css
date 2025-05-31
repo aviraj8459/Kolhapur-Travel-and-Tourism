@@ -267,6 +267,7 @@ footer p{
 @media (max-width: 768px) {
     .hero-content h1{
         margin-bottom: 5px;
+        font-size:20px
     }
     .team-member img{
         width: 200px;
