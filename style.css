@@ -267,7 +267,7 @@ footer p{
 @media (max-width: 768px) {
     .hero-content h1{
         margin-bottom: 5px;
-        font-size:4rem;
+        font-size:2.5rem;
     }
     .team-member img{
         width: 200px;
@@ -281,10 +281,10 @@ footer p{
 }
 @media (max-width:603px){
     .hero-content h1{
-        font-size: 3rem;
+        font-size: 1.5rem;
     }
     .hero-content p{
-        font-size: 3rem;
+        font-size: 2rem;
     }
 }
 @media (max-width:430px){
@@ -292,10 +292,10 @@ footer p{
         display: none;
     }
     .hero-content h1{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     .hero-content p{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     .hero-button{
         padding: 6px 22px;
